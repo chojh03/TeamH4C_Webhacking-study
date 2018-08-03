@@ -7,7 +7,7 @@ webhacking.kr 사이트에 접속하면 일단 저렇게 깐지나는 로그인 
 하지만 어디를 봐도 join 은 없고, login 만 있다.
 ![](./img/join2.PNG)
 그래서 크롬 개발자도구를 열어서 뒤적여본 결과, register 창이 주석 처리 되있는것을 볼 수 있었고, HTML 수정을 통해 주석을 지워줬더니, 저렇게 register 버튼이 나왔다.
-![](./img/join3.PNG)
+![](./img/join3.PNG)  
 일단 필자는 이미 가입을 한 상태이므로 일단은 막 적어줬다.<br>
 그런데 아래에 decode me 라는 창이 있다. 별로 디코딩 하고싶지는 않지만 해주자.
 ![](./img/join4.PNG) <br>
